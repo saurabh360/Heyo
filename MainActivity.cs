@@ -13,6 +13,7 @@ namespace fghfght6t6hy
 	{
 		int count = 1;
 		int a = 3;
+		int b = 5;
 
 		protected override void OnCreate (Bundle bundle)
 		{
