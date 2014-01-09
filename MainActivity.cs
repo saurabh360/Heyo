@@ -12,10 +12,15 @@ namespace fghfght6t6hy
 	public class MainActivity : Activity
 	{
 		int count = 1;
+		int a = 3;
 
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
+
+
+
+
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
